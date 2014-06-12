@@ -1,0 +1,14 @@
+/.DS_Store
+.DS_Store
+
+#
+# Android Studio
+#
+.idea/
+bin/
+gen/
+*.iml
+*.iws
+out/
+local.properties
+log
